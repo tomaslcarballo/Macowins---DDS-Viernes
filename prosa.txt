@@ -1,0 +1,6 @@
+La prenda delega el calculo del precio a la condicion, que en este caso son 3 objetos: nuevo, liquidación y promoción.
+Preferí realizar esto así y no con herencia ya que las prendas pueden cambiar su tipo de condicion, por ejemplo
+una prenda puede en un momento ser nueva pero quizas más adelante pueda estar en promoción.
+Luego la tienda tiene un metodo que se encarga de vender las prendas por lo cual todos los datos de prenda los ingresa dentro de cada variable
+de la clase venta y agrega la venta a la variable Ventas que es una lista.
+Al igual que al comienzo para calcular el precio final de una prenda se delega esta responsabilidad a el medio de pago.
