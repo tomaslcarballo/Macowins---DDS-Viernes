@@ -1,0 +1,4 @@
+Requerimientos:
+- Saber el precio de una prenda
+- Registrar las ventas
+- Conocer las ganancias de un determinado dia
